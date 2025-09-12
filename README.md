@@ -51,11 +51,10 @@ We used daily **NASDAQ Composite** data (adjusted close) from 2010–2025.
 
 | Window | t_c estimate | Oscillations N | LPPLS Pass? |
 |-------:|------------:|--------------:|:-----------:|
-| 2-year | 2027-xx-xx  | < 2 | ❌ |
-| 3-year | 2027-xx-xx  | < 2 | ❌ |
-| 4-year | 2026-xx-xx  | < 2 | ❌ |
+| 2-year | 24.09.2026  | < 2 | ❌ |
+| 3-year | 05.03.2027  | < 2 | ❌ |
+| 4-year | 29.06.2026  | < 2 | ❌ |
 
-*(Replace “xx-xx” with the exact dates from your CSV results.)*
 
 * Critical times were **10–18 months** after the last data point.
 * Oscillation counts were **below 2**, so the **LPPLS filter failed** on all windows.
