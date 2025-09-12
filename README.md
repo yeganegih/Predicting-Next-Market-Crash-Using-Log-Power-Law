@@ -78,9 +78,9 @@ In short: **no actionable early-warning** from LPPLS in this dataset.
 2. Download NASDAQ Composite daily prices (NASDAQ Composite Historical Data.csv)
 and place it in the repository root.
 
-Run:
+   Run:
    ```bash
-python lppls_analysis.py
+      python lppls_analysis.py
 
 
 Plots for each window will be written into plots/.
