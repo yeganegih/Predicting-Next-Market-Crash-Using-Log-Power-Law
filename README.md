@@ -9,10 +9,11 @@ This repository demonstrates how to apply the **Log-Periodic Power Law Singulari
 When markets get caught up in **herding behaviour**, prices can rise **faster than exponentially**.  
 The LPPL model, developed by Didier Sornette and collaborators, describes such phases:
 
-\[
+$$
 \ln p(t) = A + B (t_c - t)^m + C (t_c - t)^m
            \cos\!\bigl[\omega \ln (t_c - t) - \phi \bigr]
-\]
+$$
+
 
 * **A, B, C** – constants describing the baseline and strength of the bubble.  
 * **m** – how sharply the bubble accelerates (`0.1 < m < 0.9` for a classic bubble).  
